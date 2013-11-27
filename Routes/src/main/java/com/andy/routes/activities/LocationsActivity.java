@@ -1,0 +1,54 @@
+package com.andy.routes.activities;
+
+import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ListView;
+
+import com.andy.routes.R;
+import com.andy.routes.fragments.AddLocationFragment;
+
+public class LocationsActivity extends FragmentActivity
+{
+    //region Variables
+    private Button addLocationButton;
+    private ListView locationListView;
+    //endregion
+
+    //region Listeners
+    private View.OnClickListener addLocationOnClickListener = new View.OnClickListener()
+    {
+        @Override
+        public void onClick(View view)
+        {
+            AddLocationFragment addLocationFragment = new AddLocationFragment();
+            addLocationFragment.show(getSupportFragmentManager(), addLocationFragment.getClass().getName());
+        }
+    };
+    //endregion
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_locations);
+        bindUIElements();
+        setupListeners();
+    }
+
+    private void bindUIElements()
+    {
+        addLocationButton = (Button) findViewById(R.id.locations_add_button);
+        locationListView  = (ListView) findViewById(R.id.locations_listView);
+    }
+
+    private void setupListeners()
+    {
+        addLocationButton.setOnClickListener(addLocationOnClickListener);
+    }
+
+    private void populateListView()
+    {
+    }
+}
