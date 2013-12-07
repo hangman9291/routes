@@ -5,17 +5,24 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#bebebe"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="30dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp">
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="30sp"
+                android:text="@string/txt_add_location"
+                android:textColor="@android:color/secondary_text_light"/>
         <TextView
                 android:layout_height="wrap_content"
                 android:layout_width="match_parent"
                 android:text="@string/txt_location_name"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:layout_marginTop="10dp"/>
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/secondary_text_light"/>
         <EditText
                 android:id="@+id/add_location_name_editText"
                 android:layout_height="wrap_content"
@@ -24,7 +31,10 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginTop="2dp"
-                android:paddingLeft="8dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="2dp"
+                android:paddingTop="2dp"
                 android:singleLine="true"
                 android:inputType="text"/>
         <TextView
@@ -33,7 +43,8 @@
                 android:text="@string/txt_street_address"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:layout_marginTop="10dp"/>
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/secondary_text_light"/>
         <EditText
                 android:id="@+id/add_location_street_editText"
                 android:layout_height="wrap_content"
@@ -42,14 +53,19 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginTop="2dp"
-                android:paddingLeft="8dp"/>
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="2dp"
+                android:paddingTop="2dp"
+                android:singleLine="true"/>
         <TextView
                 android:layout_height="wrap_content"
                 android:layout_width="match_parent"
                 android:text="@string/txt_city"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:layout_marginTop="10dp"/>
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/secondary_text_light"/>
         <EditText
                 android:id="@+id/add_location_city_editText"
                 android:layout_height="wrap_content"
@@ -58,7 +74,11 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginTop="2dp"
-                android:paddingLeft="8dp"/>
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="2dp"
+                android:paddingTop="2dp"
+                android:singleLine="true"/>
 
         <LinearLayout
                 android:layout_height="wrap_content"
@@ -72,7 +92,8 @@
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
                         android:layout_marginTop="10dp"
-                        android:layout_weight="1"/>
+                        android:layout_weight="1"
+                        android:textColor="@android:color/secondary_text_light"/>
                 <TextView
                         android:layout_height="wrap_content"
                         android:layout_width="match_parent"
@@ -80,7 +101,8 @@
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
                         android:layout_marginTop="10dp"
-                        android:layout_weight="2"/>
+                        android:layout_weight="2"
+                        android:textColor="@android:color/secondary_text_light"/>
         </LinearLayout>
 
         <LinearLayout
@@ -95,8 +117,12 @@
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
                         android:layout_marginTop="2dp"
-                        android:paddingLeft="8dp"
-                        android:layout_weight="1"/>
+                        android:paddingLeft="10dp"
+                        android:layout_weight="1"
+                        android:paddingRight="10dp"
+                        android:paddingBottom="2dp"
+                        android:paddingTop="2dp"
+                        android:singleLine="true"/>
                 <EditText
                         android:id="@+id/add_location_zip_editText"
                         android:layout_height="wrap_content"
@@ -105,15 +131,21 @@
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
                         android:layout_marginTop="2dp"
-                        android:paddingLeft="8dp"
-                        android:layout_weight="2"/>
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingBottom="2dp"
+                        android:paddingTop="2dp"
+                        android:layout_weight="2"
+                        android:singleLine="true"
+                        android:inputType="number"/>
         </LinearLayout>
 
     <Button
             android:id="@+id/add_location_save_button"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_width="match_parent"
             android:background="@drawable/button_save"
+            android:textSize="25sp"
             android:textColor="#ffffff"
             android:text="@string/btn_save"
             android:layout_margin="10dp"/>

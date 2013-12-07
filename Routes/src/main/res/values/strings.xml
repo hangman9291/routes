@@ -5,6 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="btn_locations">Locations</string>
     <string name="txt_main">Main</string>
+    <string name="txt_add_location">Add Location</string>
     <string name="txt_location_name">Location Name</string>
     <string name="txt_street_address">Street Address</string>
     <string name="txt_city">City</string>

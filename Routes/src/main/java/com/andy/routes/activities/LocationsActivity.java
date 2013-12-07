@@ -1,5 +1,6 @@
 package com.andy.routes.activities;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
@@ -7,7 +8,6 @@ import android.widget.Button;
 import android.widget.ListView;
 
 import com.andy.routes.R;
-import com.andy.routes.fragments.AddLocationFragment;
 
 public class LocationsActivity extends FragmentActivity
 {
@@ -22,8 +22,8 @@ public class LocationsActivity extends FragmentActivity
         @Override
         public void onClick(View view)
         {
-            AddLocationFragment addLocationFragment = new AddLocationFragment();
-            addLocationFragment.show(getSupportFragmentManager(), addLocationFragment.getClass().getName());
+            Intent addLocationActivity = new Intent(getApplicationContext(), AddLocationActivity.class);
+            startActivity(addLocationActivity);
         }
     };
     //endregion

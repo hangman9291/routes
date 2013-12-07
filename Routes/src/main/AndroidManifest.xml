@@ -26,8 +26,13 @@
         </activity>
         <activity
                 android:name="com.andy.routes.activities.LocationsActivity"
-                android:label="LocationsActivity">
+                android:label="LocationsActivity"
+                android:screenOrientation="portrait">
         </activity>
+        <activity
+                android:name="com.andy.routes.activities.AddLocationActivity"
+                android:label="AddLocationActivity"
+                android:screenOrientation="portrait"/>
 
     </application>
 
