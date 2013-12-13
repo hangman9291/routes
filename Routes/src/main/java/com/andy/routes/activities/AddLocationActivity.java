@@ -5,9 +5,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import com.andy.routes.R;
+import com.andy.routes.classes.Location;
+import com.andy.routes.db.LocationsHandler;
+import com.andy.routes.utils.Utilities;
 
 public class AddLocationActivity extends Activity
 {
@@ -28,14 +30,22 @@ public class AddLocationActivity extends Activity
         {
             String message = getErrorMessage();
 
-            if (message != null)
-            {
-                Toast toast = Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT);
-                toast.show();
-            }
+            if (!message.equals(""))
+                Utilities.showShortToast(getApplicationContext(), message);
             else
             {
-                // save that shit
+                LocationsHandler locationHandler = new LocationsHandler(getApplicationContext());
+                Location newLocation = new Location
+                        (
+                                locationNameTextField.getText().toString(),
+                                locationAddressTextField.getText().toString(),
+                                locationCityTextField.getText().toString(),
+                                locationStateTextField.getText().toString(),
+                                locationZipTextField.getText().toString()
+                        );
+                locationHandler.addLocation(newLocation);
+                Utilities.showShortToast(getApplicationContext(), getResources().getString(R.string.msg_add_location_success));
+                finish();
             }
         }
     };
@@ -68,16 +78,16 @@ public class AddLocationActivity extends Activity
     private String getErrorMessage()
     {
         if (locationNameTextField.getText().length() == 0)
-            return "Name cannot be blank";
+            return getString(R.string.msg_error_add_location_name);
         else if (locationAddressTextField.getText().length() == 0)
-            return "Address cannot be blank";
+            return getString(R.string.msg_error_add_location_address);
         else if (locationCityTextField.getText().length() == 0)
-            return "City cannot be blank";
+            return getString(R.string.msg_error_add_location_city);
         else if (locationStateTextField.getText().length() == 0)
-            return "State cannot be blank";
+            return getString(R.string.msg_error_add_location_state);
         else if (locationZipTextField.getText().length() == 0)
-            return "Zip cannot be blank";
+            return getString(R.string.msg_error_add_location_zip);
         else
-            return null;
+            return "";
     }
 }

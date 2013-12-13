@@ -14,13 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4509140-b3d2-46b8-b9ab-5d622b9aa247" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/AddLocationFragment.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_add_location.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/Routes.iml" afterPath="$PROJECT_DIR$/Routes/Routes.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/LocationsHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -88,57 +85,71 @@
     <leaf>
       <file leaf-file-name="activity_add_location.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="0" selection-start="3773" selection-end="3773" vertical-scroll-proportion="-51.0" vertical-offset="0" max-vertical-offset="2703">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer">
             <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="38" selection-start="3498" selection-end="3498" vertical-scroll-proportion="-2.6923077" vertical-offset="1118" max-vertical-offset="2703">
-              <folding>
-                <element signature="e#613#639#0" expanded="true" />
-                <element signature="e#866#893#0" expanded="true" />
-                <element signature="e#1915#1943#0" expanded="true" />
-                <element signature="e#2926#2944#0" expanded="true" />
-                <element signature="e#4205#4224#0" expanded="true" />
-                <element signature="e#4712#4729#0" expanded="true" />
-                <element signature="e#7145#7163#0" expanded="true" />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AddLocationActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="16" selection-start="1054" selection-end="1071" vertical-scroll-proportion="0.6337115" vertical-offset="238" max-vertical-offset="1513">
+            <state line="4" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="-0.96363634" vertical-offset="386" max-vertical-offset="1139">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#667#1101#0" expanded="true" />
-                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
+                <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
+                <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
+                <element signature="method#getErrorMessage#0;class#AddLocationActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocationsActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="46" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="1020">
+            <state line="50" column="25" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="44" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#518#786#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
+      <file leaf-file-name="Location.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="765">
+            <state line="37" column="28" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
               <folding>
-                <element signature="e#408#426#0" expanded="true" />
-                <element signature="e#598#616#0" expanded="true" />
+                <element signature="n#!!doc;n#className#0;n#Location#0" expanded="false" />
+                <element signature="n#!!doc;n#id#0;n#Location#0" expanded="false" />
+                <element signature="method#Location#1;class#Location#0" expanded="false" />
+                <element signature="method#Location#2;class#Location#0" expanded="false" />
+                <element signature="method#toString#0;class#Location#0" expanded="false" />
+                <element signature="n#!!doc;n#getName#0;n#Location#0" expanded="false" />
+                <element signature="n#!!doc;n#setName#0;n#Location#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -516,16 +527,22 @@
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/AddLocationActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/db/DatabaseHandler.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/DatabaseHandler.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/LocationsHandler.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="16" />
     <option name="y" value="22" />
-    <option name="width" value="1181" />
+    <option name="width" value="1195" />
     <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -554,7 +571,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -755,6 +771,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -796,6 +880,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -817,6 +902,11 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.andy.routes" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.Routes">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -847,19 +937,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -885,6 +962,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -980,7 +1070,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1181" height="778" extended-state="0" />
+    <frame x="16" y="22" width="1195" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -996,13 +1086,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43617022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43617022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28105727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28546563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1024,59 +1114,60 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="38" selection-start="3498" selection-end="3498" vertical-scroll-proportion="0.0" vertical-offset="1118" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="43" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2159">
-          <folding>
-            <element signature="e#613#639#0" expanded="true" />
-            <element signature="e#866#893#0" expanded="true" />
-            <element signature="e#1915#1943#0" expanded="true" />
-            <element signature="e#2926#2944#0" expanded="true" />
-            <element signature="e#4205#4224#0" expanded="true" />
-            <element signature="e#4712#4729#0" expanded="true" />
-            <element signature="e#7145#7163#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="5" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1037">
+        <state line="37" column="16" selection-start="1054" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1513">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#667#1101#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#getErrorMessage#0;class#AddLocationActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="46" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="1020">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#518#786#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-          </folding>
+        <state line="41" column="46" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1020">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="765">
-          <folding>
-            <element signature="e#408#426#0" expanded="true" />
-            <element signature="e#598#616#0" expanded="true" />
-          </folding>
+        <state line="25" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="765">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="374">
+        <state line="5" column="43" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2159">
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="5" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1037">
+          <folding>
+            <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#getErrorMessage#0;class#AddLocationActivity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,30 +1179,94 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="3773" selection-end="3773" vertical-scroll-proportion="-51.0" vertical-offset="0" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/LocationsHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="38" selection-start="3498" selection-end="3498" vertical-scroll-proportion="-2.6923077" vertical-offset="1118" max-vertical-offset="2703">
+        <state line="104" column="4" selection-start="3241" selection-end="3241" vertical-scroll-proportion="0.8634921" vertical-offset="0" max-vertical-offset="782">
           <folding>
-            <element signature="e#613#639#0" expanded="true" />
-            <element signature="e#866#893#0" expanded="true" />
-            <element signature="e#1915#1943#0" expanded="true" />
-            <element signature="e#2926#2944#0" expanded="true" />
-            <element signature="e#4205#4224#0" expanded="true" />
-            <element signature="e#4712#4729#0" expanded="true" />
-            <element signature="e#7145#7163#0" expanded="true" />
+            <element signature="n#!!doc;n#DATABASE_VERSION#0;n#LocationsHandler#0" expanded="false" />
+            <element signature="n#!!doc;n#KEY_ID#0;n#LocationsHandler#0" expanded="false" />
+            <element signature="method#LocationsHandler#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#onCreate#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#onUpgrade#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#addLocation#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#getLocations#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#getLocationsCount#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#updateLocation#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#deleteLocation#0;class#LocationsHandler#0" expanded="false" />
+            <element signature="method#putValuesForLocation#0;class#LocationsHandler#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.46031746" vertical-offset="135" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="46" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.6693679" vertical-offset="80" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding>
+            <element signature="n#!!doc;n#className#0;n#Location#0" expanded="false" />
+            <element signature="n#!!doc;n#id#0;n#Location#0" expanded="false" />
+            <element signature="method#Location#1;class#Location#0" expanded="false" />
+            <element signature="method#Location#2;class#Location#0" expanded="false" />
+            <element signature="method#toString#0;class#Location#0" expanded="false" />
+            <element signature="n#!!doc;n#getName#0;n#Location#0" expanded="false" />
+            <element signature="n#!!doc;n#setName#0;n#Location#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="44" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="25" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1564">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="16" selection-start="1054" selection-end="1071" vertical-scroll-proportion="0.6337115" vertical-offset="238" max-vertical-offset="1513">
+        <state line="4" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="-0.96363634" vertical-offset="386" max-vertical-offset="1139">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#667#1101#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
+            <element signature="method#getErrorMessage#0;class#AddLocationActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>

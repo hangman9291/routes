@@ -7,6 +7,7 @@ public class Location
     //endregion
 
     //region Variables
+    private long id;
     private String name;
     private String streetAddress;
     private String city;
@@ -14,14 +15,24 @@ public class Location
     private String zipCode;
     //endregion
 
-    public Location(String name, String streetAddress, String city, String state, String zipCode)
+    //region Constructor
+    public Location() {}
+
+    public Location(long id, String name, String streetAddress, String city, String state, String zipCode)
     {
+        this.id            = id;
         this.name          = name;
         this.streetAddress = streetAddress;
         this.city          = city;
         this.state         = state;
         this.zipCode       = zipCode;
     }
+
+    public Location(String name, String streetAddress, String city, String state, String zipCode)
+    {
+        this(System.currentTimeMillis(), name, streetAddress, city, state, zipCode);
+    }
+    //endregion
 
     @Override
     public String toString()
@@ -53,6 +64,11 @@ public class Location
     public String getZipCode()
     {
         return zipCode;
+    }
+
+    public long getId()
+    {
+        return id;
     }
     //endregion
 
