@@ -7,8 +7,6 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.andy.routes.R;
-import com.andy.routes.classes.Location;
-import com.andy.routes.db.LocationsHandler;
 import com.andy.routes.utils.Utilities;
 
 public class AddLocationActivity extends Activity
@@ -34,17 +32,6 @@ public class AddLocationActivity extends Activity
                 Utilities.showShortToast(getApplicationContext(), message);
             else
             {
-                LocationsHandler locationHandler = new LocationsHandler(getApplicationContext());
-                Location newLocation = new Location
-                        (
-                                locationNameTextField.getText().toString(),
-                                locationAddressTextField.getText().toString(),
-                                locationCityTextField.getText().toString(),
-                                locationStateTextField.getText().toString(),
-                                locationZipTextField.getText().toString()
-                        );
-                locationHandler.addLocation(newLocation);
-                Utilities.showShortToast(getApplicationContext(), getResources().getString(R.string.msg_add_location_success));
                 finish();
             }
         }
