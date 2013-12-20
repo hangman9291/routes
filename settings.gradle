@@ -1,1 +1,1 @@
-include ':Routes'
+include ':Routes', ':GooglePlayServices'

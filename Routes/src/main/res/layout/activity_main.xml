@@ -1,33 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:id="@+id/container"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        tools:context=".MainActivity"
-        tools:ignore="MergeRootFrame">
-
-    <TextView
-            android:id="@+id/main_header_textView"
-            android:text="@string/txt_main"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#00ddff"
-            android:textColor="#ffffff"
-            android:gravity="center"
-            android:textSize="20sp"
-            android:paddingTop="5dp"
-            android:paddingBottom="5dp"/>
-
-    <Button
-            android:id="@+id/main_locations_button"
-            android:text="@string/btn_locations"
-            android:textColor="@android:color/secondary_text_light"
-            android:layout_height="wrap_content"
-            android:layout_width="match_parent"
-            android:background="@drawable/button"
-            android:gravity="center_vertical"
-            android:paddingLeft="10dp"
-            />
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_container_linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/map"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:name="com.google.android.gms.maps.SupportMapFragment"/>
 </LinearLayout>
+
+<!--<LinearLayout-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--xmlns:tools="http://schemas.android.com/tools"-->
+        <!--android:id="@+id/container"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:orientation="vertical"-->
+        <!--tools:context=".MainActivity"-->
+        <!--tools:ignore="MergeRootFrame">-->
+
+    <!--<TextView-->
+            <!--android:id="@+id/main_header_textView"-->
+            <!--android:text="@string/txt_main"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="#00ddff"-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:gravity="center"-->
+            <!--android:textSize="20sp"-->
+            <!--android:paddingTop="5dp"-->
+            <!--android:paddingBottom="5dp"/>-->
+
+    <!--<Button-->
+            <!--android:id="@+id/main_locations_button"-->
+            <!--android:text="@string/btn_locations"-->
+            <!--android:textColor="@android:color/secondary_text_light"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:background="@drawable/button"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:paddingLeft="10dp"-->
+            <!--/>-->
+<!--</LinearLayout>-->

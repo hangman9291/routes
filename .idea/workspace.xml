@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
-      <GlobalState />
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
     </option>
   </component>
   <component name="AndroidLayouts">
@@ -12,9 +14,195 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4509140-b3d2-46b8-b9ab-5d622b9aa247" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-hdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-mdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable-xxhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/GooglePlayServices.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/src/android/UnusedStub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_sign_up.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values/ads_attrs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable/common_signin_btn_icon_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable/common_signin_btn_icon_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/color/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/color/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/drawable/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/google_play_services.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values/maps_attrs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/proguard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-af/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-am/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ar/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-be/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-bg/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ca/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-cs/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-da/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-de/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-el/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-en-rGB/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-en-rIN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-es/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-es-rUS/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-et/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-et-rEE/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-fa/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-fi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-fr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-fr-rCA/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-hi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-hr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-hu/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-hy-rAM/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-in/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-it/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-iw/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ja/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ka-rGE/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-km-rKH/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ko/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-lo-rLA/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-lt/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-lv/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-mn-rMN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ms/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ms-rMY/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-nb/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-nl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-pl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-pt/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-pt-rBR/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-pt-rPT/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ro/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-ru/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-sk/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-sl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-sr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-sv/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-sw/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-th/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-tl/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-tr/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-uk/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-vi/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-zh-rCN/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-zh-rHK/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-zh-rTW/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values-zu/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/src/main/res/values/version.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_19_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Routes/src/main/res/menu/main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/Routes.iml" afterPath="$PROJECT_DIR$/Routes/Routes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/build.gradle" afterPath="$PROJECT_DIR$/Routes/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="routes.iws" />
@@ -79,27 +267,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AddLocationActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="21" selection-start="2735" selection-end="2735" vertical-scroll-proportion="0.82614744" vertical-offset="205" max-vertical-offset="952">
+            <state line="13" column="24" selection-start="342" selection-end="342" vertical-scroll-proportion="0.22345804" vertical-offset="0" max-vertical-offset="989">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="n#!!doc;n#saveButtonOnClickListener#0;n#AddLocationActivity#0" expanded="false" />
-                <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
-                <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
-                <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignUpActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="30" column="66" selection-start="1236" selection-end="1275" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="1088">
+              <folding>
+                <element signature="e#1107#1125#0" expanded="true" />
+                <element signature="e#1521#1539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="46" selection-start="476" selection-end="476" vertical-scroll-proportion="-5.862069" vertical-offset="0" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -136,6 +344,10 @@
           <value>
             <list>
               <ExternalProjectPojo>
+                <option name="name" value="GooglePlayServices" />
+                <option name="path" value="$PROJECT_DIR$/GooglePlayServices" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
                 <option name="name" value="routes" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
@@ -150,6 +362,344 @@
     </option>
     <option name="availableTasks">
       <map>
+        <entry key="$PROJECT_DIR$/GooglePlayServices">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="assembleTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="bundleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in Release." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="bundleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="compileTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for Build 'Debug' on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="connectedInstrumentTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="copyDebugLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="copyReleaseLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="dexTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="generateTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="installTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="lintTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="mergeTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseLocalJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="packageTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="preTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="prepareTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="processTestTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="uninstallTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/GooglePlayServices" />
+                <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Routes">
           <value>
             <list>
@@ -374,17 +924,17 @@
                 <option name="name" value="preTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:19.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Routes" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV71900Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Routes" />
                 <option name="name" value="prepareDebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Routes" />
                 <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare routes:GooglePlayServices:unspecified" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Routes" />
+                <option name="name" value="prepareRoutesGooglePlayServicesUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Routes" />
@@ -469,22 +1019,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/AddLocationFragment.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/AddLocationActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/db/DatabaseHandler.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/DatabaseHandler.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/db/LocationsHandler.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/local.properties" />
-        <option value="$PROJECT_DIR$/Routes/.gitignore" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_sign_up.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/GooglePlayServices/build.gradle" />
+        <option value="$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/Routes/build/manifests/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Routes/build.gradle" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/TestFragment.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_test.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -525,8 +1075,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -603,139 +1153,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -750,7 +1172,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="options.lastSelected" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
@@ -762,10 +1184,21 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="AndroidTargetDevices" value="01467D5609020010" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GooglePlayServices/src/main" />
+      <recent name="$PROJECT_DIR$/GooglePlayServices/libs" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.andy.routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GooglePlayServices" />
+      <recent name="$PROJECT_DIR$/modules" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.Routes">
@@ -797,6 +1230,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -822,19 +1268,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -894,8 +1327,8 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -921,6 +1354,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d4509140-b3d2-46b8-b9ab-5d622b9aa247" name="Default" comment="" />
@@ -929,37 +1379,85 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1173" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23715204" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069519" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908913" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2664055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31697744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17398287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38008565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1541756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777232" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7212954" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -973,99 +1471,90 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="19" selection-start="846" selection-end="846" vertical-scroll-proportion="0.46031746" vertical-offset="135" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="655" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="46" selection-start="1122" selection-end="1122" vertical-scroll-proportion="0.6693679" vertical-offset="80" max-vertical-offset="816">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="23" selection-end="23" vertical-scroll-proportion="0.017137097" vertical-offset="0" max-vertical-offset="992">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/build/manifests/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="129" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/build/source/r/debug/com/andy/routes/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="227" selection-end="228" vertical-scroll-proportion="0.10793651" vertical-offset="0" max-vertical-offset="9911">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/Routes.iml">
+    <entry file="jar://$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar!/com/google/android/gms/maps/SupportMapFragment.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377" />
+        <state line="6" column="13" selection-start="170" selection-end="188" vertical-scroll-proportion="0.37117904" vertical-offset="0" max-vertical-offset="1513">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.14064115" vertical-offset="0" max-vertical-offset="967">
+        <state line="20" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/GooglePlayServices/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="655" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="655" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="501" selection-end="501" vertical-scroll-proportion="0.22278225" vertical-offset="0" max-vertical-offset="992" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="938" selection-end="938" vertical-scroll-proportion="0.35987905" vertical-offset="0" max-vertical-offset="992">
+        <state line="28" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="-19.04" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java">
+    <entry file="file://$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="4" selection-start="1596" selection-end="1596" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
+        <state line="30" column="66" selection-start="1236" selection-end="1275" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="1088">
+          <folding>
+            <element signature="e#1107#1125#0" expanded="true" />
+            <element signature="e#1521#1539#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="759" selection-end="759" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <folding />
+        <state line="51" column="5" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.7906977" vertical-offset="0" max-vertical-offset="989">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="172" selection-end="172" vertical-scroll-proportion="0.120080724" vertical-offset="0" max-vertical-offset="991">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="76" selection-end="76" vertical-scroll-proportion="0.073913045" vertical-offset="0" max-vertical-offset="2703">
+        <state line="10" column="46" selection-start="476" selection-end="476" vertical-scroll-proportion="-5.862069" vertical-offset="0" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
@@ -1073,15 +1562,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="21" selection-start="2735" selection-end="2735" vertical-scroll-proportion="0.82614744" vertical-offset="205" max-vertical-offset="952">
+        <state line="13" column="24" selection-start="342" selection-end="342" vertical-scroll-proportion="0.22345804" vertical-offset="0" max-vertical-offset="989">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#saveButtonOnClickListener#0;n#AddLocationActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#AddLocationActivity#0" expanded="false" />
-            <element signature="method#bindUIElements#0;class#AddLocationActivity#0" expanded="false" />
-            <element signature="method#setupListeners#0;class#AddLocationActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1150,11 +1635,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>ComAndroidSupportAppcompatV71900.aar</last-edited>
+          <last-edited>google-play-services</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3626883" />
               </list>
             </option>
           </splitter-proportions>

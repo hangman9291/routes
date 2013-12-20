@@ -1,14 +1,14 @@
 package com.andy.routes;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.view.View;
 import android.widget.Button;
 
 import com.andy.routes.activities.LocationsActivity;
 
-public class MainActivity extends Activity
+public class MainActivity extends FragmentActivity
 {
     //region Variables
     private Button locationsButton;
@@ -37,11 +37,11 @@ public class MainActivity extends Activity
 
     private void bindUIElements()
     {
-        locationsButton = (Button) findViewById(R.id.main_locations_button);
+//        locationsButton = (Button) findViewById(R.id.main_locations_button);
     }
 
     private void setupListeners()
     {
-        locationsButton.setOnClickListener(locationsButtonOnClickListener);
+//        locationsButton.setOnClickListener(locationsButtonOnClickListener);
     }
 }
