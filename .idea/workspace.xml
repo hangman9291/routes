@@ -17,7 +17,344 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4509140-b3d2-46b8-b9ab-5d622b9aa247" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/ic_plusone_medium_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/ic_plusone_small_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/ic_plusone_standard_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-hdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-mdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable-xxhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-hdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-mdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable-xxhdpi/ic_plusone_tall_off_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/source/buildConfig/debug/com/google/android/gms/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/source/buildConfig/release/com/google/android/gms/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/source/r/debug/com/google/android/gms/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/source/r/release/com/google/android/gms/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable/common_signin_btn_icon_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable/common_signin_btn_icon_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable/common_signin_btn_icon_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/color/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/color/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable/common_signin_btn_text_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/color/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/drawable/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/color/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/drawable/common_signin_btn_text_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-be/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-et/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ms/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-pt-rBR/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-zh-rTW/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/debug/values-zu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-be/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-et/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ms/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-pt-rBR/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-zh-rTW/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GooglePlayServices/build/res/all/release/values-zu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GooglePlayServices/GooglePlayServices.iml" afterPath="$PROJECT_DIR$/GooglePlayServices/GooglePlayServices.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/Routes.iml" afterPath="$PROJECT_DIR$/Routes/Routes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="routes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,44 +421,56 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="40" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="816">
+            <state line="35" column="5" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="799">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#460#694#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="93" selection-start="718" selection-end="732" vertical-scroll-proportion="0.33333334" vertical-offset="149" max-vertical-offset="1173">
-              <folding>
-                <element signature="e#1311#1329#0" expanded="true" />
-                <element signature="e#1725#1743#0" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="activity_add_location.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
+            <state line="136" column="48" selection-start="6727" selection-end="6727" vertical-scroll-proportion="3.925297" vertical-offset="0" max-vertical-offset="2720">
+              <folding>
+                <element signature="e#527#553#0" expanded="true" />
+                <element signature="e#927#954#0" expanded="true" />
+                <element signature="e#1878#1906#0" expanded="true" />
+                <element signature="e#2979#2997#0" expanded="true" />
+                <element signature="e#4568#4587#0" expanded="true" />
+                <element signature="e#5075#5092#0" expanded="true" />
+                <element signature="e#7480#7498#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="568" selection-end="1008" vertical-scroll-proportion="-8.0" vertical-offset="6" max-vertical-offset="884">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="27" selection-start="428" selection-end="428" vertical-scroll-proportion="-5.037037" vertical-offset="0" max-vertical-offset="850">
+              <folding>
+                <element signature="e#1119#1137#0" expanded="true" />
+                <element signature="e#1557#1580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddLocationActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="6" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -826,15 +1175,13 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1387410706416" />
+        <entry key="$PROJECT_DIR$" value="1385593810000" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/SignUpActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_sign_up.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
@@ -846,16 +1193,19 @@
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/TestFragment.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_test.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
-    <option name="width" value="1920" />
-    <option name="height" value="1173" />
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1916" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -889,7 +1239,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -967,6 +1316,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -975,8 +1350,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1044,19 +1454,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1082,6 +1479,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1214,34 +1624,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1173" extended-state="0" />
+    <frame x="4" y="22" width="1916" height="1058" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069519" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21038544" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.53091264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31343284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16702355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1846895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1249,13 +1659,13 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1541756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1285,11 +1695,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="655" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990" />
@@ -1321,23 +1726,17 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/GooglePlayServices/libs/google-play-services.jar!/com/google/android/gms/maps/SupportMapFragment.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="170" selection-end="188" vertical-scroll-proportion="0.37117904" vertical-offset="0" max-vertical-offset="1513">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="170" selection-end="188" vertical-scroll-proportion="0.37117904" vertical-offset="0" max-vertical-offset="1513" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="20" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GooglePlayServices/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="-19.04" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="-19.04" vertical-offset="0" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
@@ -1351,36 +1750,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.16813187" vertical-offset="0" max-vertical-offset="910">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="93" selection-start="718" selection-end="732" vertical-scroll-proportion="0.056043956" vertical-offset="238" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="6" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="428" selection-end="428" vertical-scroll-proportion="-5.037037" vertical-offset="0" max-vertical-offset="850">
+          <folding>
+            <element signature="e#1119#1137#0" expanded="true" />
+            <element signature="e#1557#1580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="40" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="816">
+        <state line="35" column="5" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="799">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#460#694#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="568" selection-end="1008" vertical-scroll-proportion="-8.0" vertical-offset="6" max-vertical-offset="884">
+        <state line="2" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.055194806" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="93" selection-start="718" selection-end="732" vertical-scroll-proportion="0.33333334" vertical-offset="149" max-vertical-offset="1173">
+        <state line="136" column="48" selection-start="6727" selection-end="6727" vertical-scroll-proportion="3.925297" vertical-offset="0" max-vertical-offset="2720">
           <folding>
-            <element signature="e#1311#1329#0" expanded="true" />
-            <element signature="e#1725#1743#0" expanded="true" />
+            <element signature="e#527#553#0" expanded="true" />
+            <element signature="e#927#954#0" expanded="true" />
+            <element signature="e#1878#1906#0" expanded="true" />
+            <element signature="e#2979#2997#0" expanded="true" />
+            <element signature="e#4568#4587#0" expanded="true" />
+            <element signature="e#5075#5092#0" expanded="true" />
+            <element signature="e#7480#7498#0" expanded="true" />
           </folding>
         </state>
       </provider>
