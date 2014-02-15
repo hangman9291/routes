@@ -37,11 +37,11 @@ public class MainActivity extends FragmentActivity
 
     private void bindUIElements()
     {
-//        locationsButton = (Button) findViewById(R.id.main_locations_button);
+        locationsButton = (Button) findViewById(R.id.main_locations_button);
     }
 
     private void setupListeners()
     {
-//        locationsButton.setOnClickListener(locationsButtonOnClickListener);
+        locationsButton.setOnClickListener(locationsButtonOnClickListener);
     }
 }

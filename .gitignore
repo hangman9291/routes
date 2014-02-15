@@ -5,5 +5,10 @@
 *.war
 *.ear
 
+<<<<<<< HEAD
 .gradle/
 .idea/
+=======
+.gradle
+.idea
+>>>>>>> master
