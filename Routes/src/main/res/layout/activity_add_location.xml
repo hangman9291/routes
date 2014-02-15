@@ -145,8 +145,10 @@
         </LinearLayout>
         <Button
                 android:id="@+id/add_location_save_button"
-                android:layout_height="50dp"
+                android:layout_height="wrap_content"
                 android:layout_width="match_parent"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
                 android:background="@drawable/button_save"
                 android:textSize="25sp"
                 android:textColor="#ffffff"

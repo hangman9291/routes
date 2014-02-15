@@ -20,7 +20,8 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         tools:context=".MainActivity"
-        tools:ignore="MergeRootFrame">
+        tools:ignore="MergeRootFrame"
+        android:background="@color/white">
     <TextView
             android:id="@+id/main_header_textView"
             android:text="@string/txt_main"
@@ -40,6 +41,5 @@
             android:layout_width="match_parent"
             android:background="@drawable/button"
             android:gravity="center_vertical"
-            android:paddingLeft="10dp"
-            />
+            android:paddingLeft="10dp"/>
 </LinearLayout>

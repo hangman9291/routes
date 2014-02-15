@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.andy.routes.activities.LocationsActivity;
+import com.andy.routes.dialog.SignInDialogFragment;
 
 public class MainActivity extends FragmentActivity
 {
@@ -33,6 +34,7 @@ public class MainActivity extends FragmentActivity
         setContentView(R.layout.activity_main);
         bindUIElements();
         setupListeners();
+        showSignInDialog();
     }
 
     private void bindUIElements()
@@ -43,5 +45,11 @@ public class MainActivity extends FragmentActivity
     private void setupListeners()
     {
         locationsButton.setOnClickListener(locationsButtonOnClickListener);
+    }
+
+    private void showSignInDialog()
+    {
+        SignInDialogFragment signInDialogFragment = new SignInDialogFragment();
+        signInDialogFragment.show(getSupportFragmentManager(), SignInDialogFragment.TAG);
     }
 }
