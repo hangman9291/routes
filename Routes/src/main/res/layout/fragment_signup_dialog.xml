@@ -23,7 +23,7 @@
                 android:text="@string/txt_email"
                 android:textColor="@android:color/secondary_text_light"/>
         <EditText
-                android:id="@+id/signin_email_editText"
+                android:id="@+id/signup_email_editText"
                 android:layout_height="wrap_content"
                 android:layout_width="match_parent"
                 android:layout_marginTop="2dp"
@@ -46,7 +46,30 @@
                 android:text="@string/txt_password"
                 android:textColor="@android:color/secondary_text_light"/>
         <EditText
-                android:id="@+id/signin_password_editText"
+                android:id="@+id/signup_password_editText"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginTop="2dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:paddingTop="2dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="2dp"
+                android:paddingLeft="10dp"
+                android:background="@drawable/rounded_field"
+                android:textColor="@color/black"
+                android:singleLine="true"
+                android:inputType="textPassword"/>
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/txt_password"
+                android:textColor="@android:color/secondary_text_light"/>
+        <EditText
+                android:id="@+id/signup_confirm_password_editText"
                 android:layout_height="wrap_content"
                 android:layout_width="match_parent"
                 android:layout_marginTop="2dp"
@@ -61,7 +84,7 @@
                 android:singleLine="true"
                 android:inputType="textPassword"/>
         <Button
-                android:id="@+id/signin_submit_button"
+                android:id="@+id/signup_submit_button"
                 android:layout_height="wrap_content"
                 android:layout_width="match_parent"
                 android:layout_marginTop="10dp"
@@ -73,26 +96,5 @@
                 android:textSize="20sp"
                 android:background="@drawable/button_save"
                 android:text="@string/btn_sign_in"/>
-        <LinearLayout
-                android:layout_height="wrap_content"
-                android:layout_width="match_parent"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp"
-                android:layout_marginLeft="10dp"
-                android:gravity="center"
-                android:orientation="horizontal">
-            <TextView
-                    android:layout_height="wrap_content"
-                    android:layout_width="wrap_content"
-                    android:layout_marginRight="8dp"
-                    android:textColor="@android:color/secondary_text_light"
-                    android:text="@string/txt_dont_have_an_account"/>
-            <TextView
-                    android:id="@+id/signin_goto_signup_button"
-                    android:layout_height="wrap_content"
-                    android:layout_width="wrap_content"
-                    android:textColor="@color/blue"
-                    android:text="@string/btn_sign_up_here"/>
-        </LinearLayout>
     </LinearLayout>
 </LinearLayout>
