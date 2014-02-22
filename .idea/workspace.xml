@@ -22,13 +22,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4509140-b3d2-46b8-b9ab-5d622b9aa247" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/dialog/SignInDialogFragment.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/AsyncHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/AsyncHttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/AsyncHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/Base64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/Base64DataException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/Base64OutputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/BaseJsonHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/BinaryHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/DataAsyncHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/FileAsyncHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/JsonHttpResponseHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/JsonStreamerEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/MySSLSocketFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/PersistentCookieStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/RequestHandle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/RequestParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/ResponseHandlerInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/RestClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/RetryHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Route.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/SerializableCookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/SimpleMultipartEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/SyncHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/TextHttpResponseHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/AddLocationActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/LocationsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/classes/Location.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Location.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" afterPath="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml" afterPath="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="routes.iws" />
@@ -93,50 +121,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
+      <file leaf-file-name="RestClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/RestClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="25" selection-start="1597" selection-end="1689" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1122">
+            <state line="21" column="4" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignInDialogFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java">
+      <file leaf-file-name="Log.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="20" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="1139">
+            <state line="12" column="20" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_signin_dialog.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml">
+      <file leaf-file-name="Route.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Route.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="52" selection-start="3978" selection-end="3978" vertical-scroll-proportion="0.9158416" vertical-offset="1092" max-vertical-offset="1751">
-              <folding>
-                <element signature="e#920#939#0" expanded="true" />
-                <element signature="e#2017#2039#0" expanded="true" />
-                <element signature="e#3402#3423#0" expanded="true" />
-                <element signature="e#4088#4122#0" expanded="true" />
-                <element signature="e#4409#4435#0" expanded="true" />
-              </folding>
+            <state line="2" column="19" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+              <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="Point.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="18" selection-start="50" selection-end="50" vertical-scroll-proportion="0.053968254" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SignUpDialogFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="988" selection-end="988" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <folding>
-                <element signature="n#!!doc;n#submitButtonOnClickListener#0;n#SignUpDialogFragment#0" expanded="false" />
-                <element signature="method#onCreateDialog#0;class#SignUpDialogFragment#0" expanded="false" />
-              </folding>
+            <state line="17" column="4" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -849,22 +874,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_test.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/interfaces/CustomDialogInterface.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/signin_dialog_fragment.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/dialog/SignInDialogFragment.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml" />
-        <option value="$PROJECT_DIR$/Routes/build/res/all/debug/layout/fragment_signin_dialog.xml" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/network/AsyncHttpClient.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml" />
-        <option value="$PROJECT_DIR$/Routes/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/network/RestClient.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/http/AsyncHttpClient.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/RestClient.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/RoutesLibrary.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/RoutesApplication.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/RoutesLibrary.java" />
         <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Route.java" />
+        <option value="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Point.java" />
       </list>
     </option>
   </component>
@@ -900,8 +925,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -978,32 +1001,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1042,7 +1039,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="network" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1110,46 +1179,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activities" />
+              <option name="myItemId" value="activity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1171,9 +1208,17 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/FlickrInterviewProject" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="AndroidTargetDevices" value="01467D5609020010" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.andy.routes.Library" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.Routes">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1343,28 +1388,28 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27687296" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674772" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3024316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3905775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12703583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2918699" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27687296" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1408,132 +1453,251 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GooglePlayServices/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="71" column="48" selection-start="3273" selection-end="3273" vertical-scroll-proportion="2.3465347" vertical-offset="259" max-vertical-offset="1751" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/widget/EditText.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="716" selection-end="716" vertical-scroll-proportion="0.3325359" vertical-offset="133" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/AddLocationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="12" selection-start="2659" selection-end="2659" vertical-scroll-proportion="0.784127" vertical-offset="560" max-vertical-offset="1224">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/LocationsActivity.java">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/LocationsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="5" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.7906977" vertical-offset="0" max-vertical-offset="989" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="212" selection-end="212" vertical-scroll-proportion="0.1493976" vertical-offset="40" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="39" selection-end="39" vertical-scroll-proportion="0.053968254" vertical-offset="0" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="940" selection-end="940" vertical-scroll-proportion="-4.0740743" vertical-offset="230" max-vertical-offset="850">
+        <state line="46" column="36" selection-start="1374" selection-end="1374" vertical-scroll-proportion="0.8622366" vertical-offset="131" max-vertical-offset="816">
           <folding>
-            <element signature="e#1161#1179#0" expanded="false" />
-            <element signature="e#1599#1622#0" expanded="false" />
+            <element signature="e#517#774#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activities/AddLocationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1258" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/activity_add_location.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="42" selection-start="7399" selection-end="7399" vertical-scroll-proportion="0.66169155" vertical-offset="2151" max-vertical-offset="2754">
-          <folding>
-            <element signature="e#927#954#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/Routes/libs/android-support-v4.jar!/android/support/v4/app/FragmentTransaction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="63" selection-start="696" selection-end="696" vertical-scroll-proportion="0.34710744" vertical-offset="62" max-vertical-offset="1173" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/build/res/all/debug/layout/fragment_signin_dialog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="118" selection-start="4407" selection-end="4510" vertical-scroll-proportion="0.831405" vertical-offset="1129" max-vertical-offset="1734" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="25" selection-start="1597" selection-end="1689" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="1003">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="23" selection-start="4123" selection-end="4123" vertical-scroll-proportion="0.6762712" vertical-offset="1114" max-vertical-offset="1785">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="161" selection-end="161" vertical-scroll-proportion="0.10793651" vertical-offset="0" max-vertical-offset="630">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignInDialogFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="20" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="1139">
+        <state line="66" column="34" selection-start="2169" selection-end="2169" vertical-scroll-proportion="0.8071313" vertical-offset="437" max-vertical-offset="1122">
+          <folding>
+            <element signature="e#982#1278#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signup_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="43" selection-start="4464" selection-end="4464" vertical-scroll-proportion="0.74626863" vertical-offset="1182" max-vertical-offset="1785" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="70" selection-start="367" selection-end="367" vertical-scroll-proportion="0.2968254" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/RequestParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="48" selection-start="459" selection-end="459" vertical-scroll-proportion="0.4361949" vertical-offset="16" max-vertical-offset="680">
+        <state line="90" column="13" selection-start="3538" selection-end="3538" vertical-scroll-proportion="1.432739" vertical-offset="0" max-vertical-offset="8177">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/AsyncHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="887" column="28" selection-start="39625" selection-end="39625" vertical-scroll-proportion="5.6207457" vertical-offset="0" max-vertical-offset="3893">
+          <folding>
+            <element signature="docComment;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#AsyncHttpClient#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#AsyncHttpClient#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#AsyncHttpClient#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#AsyncHttpClient#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#AsyncHttpClient#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#AsyncHttpClient#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#AsyncHttpClient#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#AsyncHttpClient#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getDefaultSchemeRegistry#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#getDefaultSchemeRegistry#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#6796#6827#0" expanded="false" />
+            <element signature="docComment;method#AsyncHttpClient#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#AsyncHttpClient#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#allowRetryExceptionClass#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#blockRetryExceptionClass#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getHttpClient#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getHttpContext#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setCookieStore#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setCookieStore#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setThreadPool#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setEnableRedirects#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setEnableRedirects#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setUserAgent#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setUserAgent#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getMaxConnections#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setMaxConnections#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setMaxConnections#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getTimeout#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setTimeout#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setTimeout#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setProxy#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setProxy#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setProxy#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setProxy#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setSSLSocketFactory#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setSSLSocketFactory#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setMaxRetriesAndTimeout#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setMaxRetriesAndTimeout#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#addHeader#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#addHeader#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#removeHeader#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#removeHeader#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setBasicAuth#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setBasicAuth#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setBasicAuth#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#setBasicAuth#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#clearBasicAuth#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#clearBasicAuth#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#cancelRequests#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#cancelRequests#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#head#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#head#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#head#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#head#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#head#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#head#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#head#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#head#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#head#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#head#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#22795#22811#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#get#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#get#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#get#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#get#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#get#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#get#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#get#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#get#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#get#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#26174#26189#0" expanded="false" />
+            <element signature="docComment;method#post#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#post#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#post#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#post#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#post#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#post#5;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#post#5;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#31771#31787#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#put#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#put#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#put#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#put#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#put#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#put#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#put#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#put#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#put#4;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#36071#36086#0" expanded="false" />
+            <element signature="docComment;method#delete#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#delete#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#delete#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#delete#1;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#delete#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#delete#2;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#delete#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#delete#3;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#sendRequest#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#sendRequest#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#setURLEncodingEnabled#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#getUrlWithQueryString#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#getUrlWithQueryString#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="e#41868#41921#0" expanded="false" />
+            <element signature="e#42052#42105#0" expanded="false" />
+            <element signature="docComment;method#paramsToEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#paramsToEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;method#addEntityToRequestBase#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#addEntityToRequestBase#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="docComment;class#InflatingEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="class#InflatingEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#InflatingEntity#0;class#InflatingEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#getContent#0;class#InflatingEntity#0;class#AsyncHttpClient#0" expanded="false" />
+            <element signature="method#getContentLength#0;class#InflatingEntity#0;class#AsyncHttpClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/http/AsyncHttpResponseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="22" selection-start="2699" selection-end="2699" vertical-scroll-proportion="0.42139384" vertical-offset="590" max-vertical-offset="6426">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/fragments/SignUpDialogFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="988" selection-end="988" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+        <state line="17" column="4" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="4" selection-start="413" selection-end="413" vertical-scroll-proportion="0.21587302" vertical-offset="0" max-vertical-offset="630">
           <folding>
-            <element signature="n#!!doc;n#submitButtonOnClickListener#0;n#SignUpDialogFragment#0" expanded="false" />
-            <element signature="method#onCreateDialog#0;class#SignUpDialogFragment#0" expanded="false" />
+            <element signature="n#!!doc;n#locationsButton#0;n#MainActivity#0" expanded="false" />
+            <element signature="n#!!doc;n#locationsButtonOnClickListener#0;n#MainActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#bindUIElements#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#setupListeners#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#showSignInDialog#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routes/src/main/res/layout/fragment_signin_dialog.xml">
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/Library/network/RestClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="52" selection-start="3978" selection-end="3978" vertical-scroll-proportion="0.9158416" vertical-offset="1092" max-vertical-offset="1751">
-          <folding>
-            <element signature="e#920#939#0" expanded="true" />
-            <element signature="e#2017#2039#0" expanded="true" />
-            <element signature="e#3402#3423#0" expanded="true" />
-            <element signature="e#4088#4122#0" expanded="true" />
-            <element signature="e#4409#4435#0" expanded="true" />
-          </folding>
+        <state line="21" column="4" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/utils/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routes/src/main/java/com/andy/routes/model/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="50" selection-end="50" vertical-scroll-proportion="0.053968254" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

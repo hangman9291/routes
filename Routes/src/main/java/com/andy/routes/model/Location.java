@@ -1,4 +1,4 @@
-package com.andy.routes.classes;
+package com.andy.routes.model;
 
 public class Location
 {

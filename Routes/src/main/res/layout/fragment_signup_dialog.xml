@@ -95,6 +95,6 @@
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:background="@drawable/button_save"
-                android:text="@string/btn_sign_in"/>
+                android:text="@string/btn_sign_up"/>
     </LinearLayout>
 </LinearLayout>

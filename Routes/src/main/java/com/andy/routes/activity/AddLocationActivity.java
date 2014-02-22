@@ -1,4 +1,4 @@
-package com.andy.routes.activities;
+package com.andy.routes.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -9,8 +9,8 @@ import android.widget.EditText;
 import com.andy.routes.R;
 import com.andy.routes.utils.Utilities;
 
-public class AddLocationActivity extends Activity
-{
+public class AddLocationActivity extends Activity {
+
     //region Variables
     private EditText locationNameTextField;
     private EditText locationAddressTextField;
@@ -21,34 +21,29 @@ public class AddLocationActivity extends Activity
     //endregion
 
     //region Listeners
-    private View.OnClickListener saveButtonOnClickListener = new View.OnClickListener()
-    {
+    private View.OnClickListener saveButtonOnClickListener = new View.OnClickListener() {
+
         @Override
-        public void onClick(View view)
-        {
+        public void onClick(View view) {
             String message = getErrorMessage();
 
             if (!message.equals(""))
                 Utilities.showShortToast(getApplicationContext(), message);
             else
-            {
                 finish();
-            }
         }
     };
     //endregion
 
     @Override
-    protected void onCreate(Bundle savedInstanceState)
-    {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_location);
         bindUIElements();
         setupListeners();
     }
 
-    private void bindUIElements()
-    {
+    private void bindUIElements() {
         locationNameTextField    = (EditText) findViewById(R.id.add_location_name_editText);
         locationAddressTextField = (EditText) findViewById(R.id.add_location_street_editText);
         locationCityTextField    = (EditText) findViewById(R.id.add_location_city_editText);
@@ -57,13 +52,11 @@ public class AddLocationActivity extends Activity
         saveButton               = (Button)   findViewById(R.id.add_location_save_button);
     }
 
-    private void setupListeners()
-    {
+    private void setupListeners() {
         saveButton.setOnClickListener(saveButtonOnClickListener);
     }
 
-    private String getErrorMessage()
-    {
+    private String getErrorMessage() {
         if (locationNameTextField.getText().length() == 0)
             return getString(R.string.msg_error_add_location_name);
         else if (locationAddressTextField.getText().length() == 0)

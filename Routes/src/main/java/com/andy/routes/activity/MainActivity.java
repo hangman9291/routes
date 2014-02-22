@@ -1,4 +1,4 @@
-package com.andy.routes;
+package com.andy.routes.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,21 +6,20 @@ import android.support.v4.app.FragmentActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.andy.routes.activities.LocationsActivity;
+import com.andy.routes.R;
 import com.andy.routes.fragments.SignInDialogFragment;
 
-public class MainActivity extends FragmentActivity
-{
+public class MainActivity extends FragmentActivity {
+
     //region Variables
     private Button locationsButton;
     //endregion
 
     //region Listeners
-    private View.OnClickListener locationsButtonOnClickListener = new View.OnClickListener()
-    {
+    private View.OnClickListener locationsButtonOnClickListener = new View.OnClickListener() {
+
         @Override
-        public void onClick(View view)
-        {
+        public void onClick(View view) {
             Intent intent = new Intent(MainActivity.this, LocationsActivity.class);
             startActivity(intent);
         }
@@ -28,8 +27,7 @@ public class MainActivity extends FragmentActivity
     //endregion
 
     @Override
-    protected void onCreate(Bundle savedInstanceState)
-    {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         bindUIElements();
@@ -37,18 +35,15 @@ public class MainActivity extends FragmentActivity
         showSignInDialog();
     }
 
-    private void bindUIElements()
-    {
+    private void bindUIElements() {
         locationsButton = (Button) findViewById(R.id.main_locations_button);
     }
 
-    private void setupListeners()
-    {
+    private void setupListeners() {
         locationsButton.setOnClickListener(locationsButtonOnClickListener);
     }
 
-    private void showSignInDialog()
-    {
+    private void showSignInDialog() {
         SignInDialogFragment signInDialogFragment = new SignInDialogFragment();
         getSupportFragmentManager()
                 .beginTransaction()

@@ -1,7 +1,6 @@
 package com.andy.routes.fragments;
 
 import android.app.Dialog;
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.view.View;
@@ -10,9 +9,10 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.andy.routes.R;
+import com.andy.routes.utils.Utilities;
 
-public class SignUpDialogFragment extends DialogFragment
-{
+public class SignUpDialogFragment extends DialogFragment {
+
     //region Constant Variables
     public static final String TAG = "signup_dialog_fragment";
     //endregion
@@ -25,12 +25,11 @@ public class SignUpDialogFragment extends DialogFragment
     //endregion
 
     //region Listeners
-    private View.OnClickListener submitButtonOnClickListener = new View.OnClickListener()
-    {
-        @Override
-        public void onClick(View view)
-        {
+    private View.OnClickListener submitButtonOnClickListener = new View.OnClickListener() {
 
+        @Override
+        public void onClick(View view) {
+            executeSignUp();
         }
     };
     //endregion
@@ -38,8 +37,7 @@ public class SignUpDialogFragment extends DialogFragment
     //TODO: Figure out how to replace dialog fragment with another dialog fragment
 
     @Override
-    public Dialog onCreateDialog(Bundle savedInstanceState)
-    {
+    public Dialog onCreateDialog(Bundle savedInstanceState) {
         Dialog dialog = new Dialog(getActivity(), android.R.style.Theme_Translucent);
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
         dialog.setContentView(R.layout.fragment_signup_dialog);
@@ -51,16 +49,24 @@ public class SignUpDialogFragment extends DialogFragment
         return dialog;
     }
 
-    private void bindUIElements(Dialog dialog)
-    {
+    private void bindUIElements(Dialog dialog) {
         emailEditText           = (EditText) dialog.findViewById(R.id.signup_email_editText);
         passwordEditText        = (EditText) dialog.findViewById(R.id.signup_password_editText);
         confirmPasswordEditText = (EditText) dialog.findViewById(R.id.signup_confirm_password_editText);
         submitButton            = (Button) dialog.findViewById(R.id.signup_submit_button);
     }
 
-    private void setUpListeners()
-    {
+    private void setUpListeners() {
         submitButton.setOnClickListener(submitButtonOnClickListener);
+    }
+
+    private void executeSignUp() {
+//        if (emailEditText.getText().toString().length() != 0
+//                && passwordEditText.getText().toString().length() != 0
+//                && confirmPasswordEditText.getText().toString().length() != 0
+//                && passwordEditText.getText().toString().equals(confirmPasswordEditText.getText().toString()))
+//
+//        else
+//            Utilities.showShortToast(getActivity(), "FUCK!");
     }
 }

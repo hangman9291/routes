@@ -13,8 +13,8 @@ import android.widget.TextView;
 
 import com.andy.routes.R;
 
-public class SignInDialogFragment extends DialogFragment
-{
+public class SignInDialogFragment extends DialogFragment {
+
     //region Constant Variables
     public static final String TAG = "signin_dialog_fragment";
     //endregion
@@ -27,20 +27,17 @@ public class SignInDialogFragment extends DialogFragment
     //endregion
 
     //region Listeners
-    private View.OnClickListener signInButtonOnClickListener = new View.OnClickListener()
-    {
-        @Override
-        public void onClick(View view)
-        {
+    private View.OnClickListener signInButtonOnClickListener = new View.OnClickListener() {
 
+        @Override
+        public void onClick(View view) {
         }
     };
 
-    private View.OnClickListener signUpButtonOnClickListener = new View.OnClickListener()
-    {
+    private View.OnClickListener signUpButtonOnClickListener = new View.OnClickListener() {
+
         @Override
-        public void onClick(View view)
-        {
+        public void onClick(View view) {
             SignUpDialogFragment signUpDialogFragment = new SignUpDialogFragment();
             signUpDialogFragment.show(getActivity().getSupportFragmentManager(), SignUpDialogFragment.TAG);
         }
@@ -48,8 +45,7 @@ public class SignInDialogFragment extends DialogFragment
     //endregion
 
     @Override
-    public Dialog onCreateDialog(Bundle savedInstanceState)
-    {
+    public Dialog onCreateDialog(Bundle savedInstanceState) {
         Dialog dialog = new Dialog(getActivity(), android.R.style.Theme_Translucent);
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
         dialog.setContentView(R.layout.fragment_signin_dialog);
@@ -61,16 +57,14 @@ public class SignInDialogFragment extends DialogFragment
         return dialog;
     }
 
-    private void bindUIElements(Dialog dialog)
-    {
+    private void bindUIElements(Dialog dialog) {
         emailEditText    = (EditText) dialog.findViewById(R.id.signin_email_editText);
         passwordEditText = (EditText) dialog.findViewById(R.id.signin_password_editText);
         signInButton     = (Button) dialog.findViewById(R.id.signin_submit_button);
         signUpButton     = (TextView) dialog.findViewById(R.id.signin_goto_signup_button);
     }
 
-    private void setUpListeners()
-    {
+    private void setUpListeners() {
         signInButton.setOnClickListener(signInButtonOnClickListener);
         signUpButton.setOnClickListener(signUpButtonOnClickListener);
     }
